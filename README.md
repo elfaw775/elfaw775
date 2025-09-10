@@ -4,14 +4,11 @@
 
 
 
+
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=elfaw775&show_icons=true&theme=ambient_gradient&count_private=true" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaw775)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elfaw775/elfaw775/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elfaw775/elfaw775/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elfaw775/elfaw775/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://wakatime.com/share/@cd150cf5-8acc-4f0b-8019-945aa6b58a39/d847a63d-a243-4535-bde1-b4b59d8efe6e.svg" />
